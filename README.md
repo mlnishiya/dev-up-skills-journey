@@ -19,7 +19,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário dinâ
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para me contatar pelo LinkedIn ou via email.
 
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/mikio-nishiya)
+- **LinkedIn:** [NiSHiYA Mikio](https://www.linkedin.com/in/mikio-nishiya)
 
 ---
 

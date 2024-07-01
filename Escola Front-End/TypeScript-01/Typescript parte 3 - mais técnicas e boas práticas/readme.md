@@ -15,6 +15,13 @@ Tópicos:
     4- Simplificação no design de decorators
     5- Portabilidade de funcionalidade antiga para decorators
 
+    DECORATOR DE PROPRIEDADE
+    1- Como evitar código duplicado
+    2- Decorator de propriedade
+    3- Criação dinâmica de getters
+    4- O uso de Object.defineProperty
+    5- Cache de decorators
+
 
 
 
